@@ -3,3 +3,10 @@ https://astr0baby.wordpress.com/2017/09/21/blueborne-poc-test/
 Jeżeli urzędzenie nie jest podatne to skrypt 
 służący do ataku zwraca informacje "Invalid continuation state received"
 
+Próbowałem wykonać na:
+- sony xperia J
+- samsung 3310
+- Huawei P8 Lite
+- Raspberry Pi 3b
+
+żadne z tych urzdzeń nie było podatne na ten atak
